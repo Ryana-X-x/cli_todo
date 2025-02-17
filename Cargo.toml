@@ -1,5 +1,5 @@
 [package]
-name = "cli_todo"
+name = "cli_todo_rust"
 version = "0.1.0"
 edition = "2021"
 author = ["Ryana <https://github.com/Ryana-X-x>"]
