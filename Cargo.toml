@@ -1,5 +1,5 @@
 [package]
-name = "w-cli-todo"
+name = "cli-todo"
 version = "0.1.0"
 edition = "2021"
 author = ["Ryana <https://github.com/Ryana-X-x>"]
