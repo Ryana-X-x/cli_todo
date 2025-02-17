@@ -2,5 +2,11 @@
 name = "cli_todo"
 version = "0.1.0"
 edition = "2021"
+author = ["Ryana <https://github.com/Ryana-X-x>"]
 
 [dependencies]
+
+
+[[bin]]
+name = "cli-todo"
+path = "src/main.rs"
