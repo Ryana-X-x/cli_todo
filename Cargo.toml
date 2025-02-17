@@ -4,6 +4,9 @@ version = "0.1.0"
 edition = "2021"
 author = ["Ryana <https://github.com/Ryana-X-x>"]
 
+description = "A simple cli todo app in rust that allows adding, removing and task listing"
+license = "MIT"
+
 [dependencies]
 
 
